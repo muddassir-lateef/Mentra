@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/03923dec-1499-4183-8530-d4269ac681bc" alt="Mentra" />
+    
 # Metra | AI powered live Voice+Video Interviewer
 
+</p>
 This project is a web-based AI-powered interviewer that conducts screening interviews with candidates. It uses Google's Gemini 2.0 flash live api to ask relevant questions based on a job description and a candidate's resume.
 
 ## Features
