@@ -59,17 +59,22 @@ The project is structured as follows:
 ## How to Use
 
 1.  **Welcome Screen:**
+  ![image](https://github.com/user-attachments/assets/c9c8213f-57b0-4a1f-a6e8-b9509be49ab6)
+
     -   Edit the job description in the text area.
     -   Upload a candidate's resume in PDF format.
     -   Click "Go to Interview Screen" to proceed.
 2.  **Interview Screen:**
+   ![image](https://github.com/user-attachments/assets/e8b0a5ac-b95f-4de1-bc4f-e4d891bad38b)
+
     -   Click the "Start" button to begin the interview.
-    -   Use your microphone to answer the AI's questions.
-    -   The AI will end the call and provide an evaluation when it has enough information. You can also say "end call" to stop the interview yourself.
-3.  **Side Panel:**
-    -   The side panel displays a real-time log of the conversation and any tool use.
-    -   You can filter the logs to show only conversations, tool use, or all messages.
-    -   You can also send text messages to the AI using the chat input at the bottom of the panel.
+    -   Use your microphone to answer the AI's questions or optionally also use the camera
+    
+    
+4.  **Final Evaluation:**
+   ![image](https://github.com/user-attachments/assets/e2062dff-4ecf-4357-8580-84325576889c)
+
+-   The AI will end the call and provide an evaluation when it has enough information. You can also say "end call" to stop the interview yourself.
 
 ## Contributing
 
