@@ -88,7 +88,7 @@ function App() {
              {interviewState === "evaluation" && (
               <div className="evaluation-container">
                 <h2>Interview Evaluation</h2>
-                <p>{evaluation}</p>
+                <p className="evaluation-message">{evaluation}</p>
               </div>
             )}
 
