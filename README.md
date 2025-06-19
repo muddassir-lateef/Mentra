@@ -1,6 +1,6 @@
-# AI Interviewer
+# Metra | AI powered live Voice+Video Interviewer
 
-This project is a web-based AI-powered interviewer that conducts screening interviews with candidates. It uses Google's Generative AI to ask relevant questions based on a job description and a candidate's resume.
+This project is a web-based AI-powered interviewer that conducts screening interviews with candidates. It uses Google's Gemini 2.0 flash live api to ask relevant questions based on a job description and a candidate's resume.
 
 ## Features
 
